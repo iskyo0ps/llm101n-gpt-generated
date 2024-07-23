@@ -28,7 +28,7 @@ Syllabus
 
 - [ ] Chapter 06 Tokenization (minBPE, byte pair encoding)
 
-- [ ]Chapter 07 Optimization (initialization, optimization, AdamW)
+- [ ] Chapter 07 Optimization (initialization, optimization, AdamW)
 
 - [ ] Chapter 08 Need for Speed I: Device (device, CPU, GPU, ...)
 
