@@ -14,7 +14,7 @@ In this course we will build a Storyteller AI Large Language Model (LLM). Hand i
 
 Syllabus(`check in after verified`)
 
-- [x] [Chapter 01](./ch01/ch01%20Bigram%20Language%20Model.md) Bigram Language Model (language modeling)
+- [x] [Chapter 01](./ch01/ch01.md) Bigram Language Model (language modeling)
 
 - [x] [Chapter 02](./ch02/ch02.md) Micrograd (machine learning, backpropagation)
 
@@ -46,7 +46,7 @@ Syllabus(`check in after verified`)
 
 - [ ] [Chapter 16](./ch16/ch16.md) Deployment (API, web app)
 
-- [ ][ Chapter 17](./ch17/ch17.md) Multimodal (VQVAE, diffusion transformer)
+- [ ] [Chapter 17](./ch17/ch17.md) Multimodal (VQVAE, diffusion transformer)
 
 Appendix
 
