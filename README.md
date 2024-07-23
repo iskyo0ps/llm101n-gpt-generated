@@ -1,14 +1,12 @@
 # llm101n-gpt-generated
 
+karpathy Andrej maybe too busy. Learn by doing, rather than waiting.
+
 chatgpt-generated context for studying Large language model.
 
-compare the directory of https://github.com/karpathy/LLM101n.git
+refer to the copied the directory context from https://github.com/karpathy/LLM101n.git
 
-try to obtain the knowledge from learn by doing.
-
-ask the world the most greatest metor.
-
-the following context is copy from https://github.com/karpathy/LLM101n
+---
 
 > What I cannot create, I do not understand. -Richard Feynman
 
@@ -16,9 +14,9 @@ In this course we will build a Storyteller AI Large Language Model (LLM). Hand i
 
 Syllabus
 
-- [x] Chapter 01 [Bigram Language Model (language modeling)](https://github.com/iskyo0ps/llm101n-gpt-generated/blob/main/ch01/ch01%20Bigram%20Language%20Model.md)
+- [x] [Chapter 01](./ch01/ch01%20Bigram%20Language%20Model.md) Bigram Language Model (language modeling)
 
-- [ ] Chapter 02 [Micrograd (machine learning, backpropagation)](https://github.com/iskyo0ps/llm101n-gpt-generated/blob/main/ch02/ch02.md) 
+- [x] [Chapter 02](./ch02/ch02.md) Micrograd (machine learning, backpropagation)
 
 - [ ] Chapter 03 N-gram model (multi-layer perceptron, matmul, gelu)
 
@@ -65,3 +63,5 @@ Deep Learning frameowrks: PyTorch, JAX
 Neural Net Architecture: GPT (1,2,3,4), Llama (RoPE, RMSNorm, GQA), MoE, ...
 
 Multimodal: Images, Audio, Video, VQVAE, VQGAN, diffusion
+
+
