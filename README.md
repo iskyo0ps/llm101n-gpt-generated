@@ -1,5 +1,6 @@
 # llm101n-gpt-generated
 
+### Intro
 karpathy Andrej maybe too busy. Learn by doing, rather than waiting.
 
 chatgpt-generated context for studying Large language model.
@@ -12,8 +13,11 @@ refer to the copied the directory context from https://github.com/karpathy/LLM10
 
 In this course we will build a Storyteller AI Large Language Model (LLM). Hand in hand, you'll be able create, refine and illustrate [little stories](https://huggingface.co/datasets/roneneldan/TinyStories) with the AI. We are going to build everything end-to-end from basics to a functioning web app similar to ChatGPT, from scratch in Python, C and CUDA, and with minimal computer science prerequisits. By the end you should have a relatively deep understanding of AI, LLMs, and deep learning more generally.
 
-Syllabus(`check in after verified`)
 
+>[!CAUTION]
+>check in after verified
+
+### Syllabus
 - [x] [Chapter 01](./ch01/ch01.md) Bigram Language Model (language modeling)
 
 - [x] [Chapter 02](./ch02/ch02.md) Micrograd (machine learning, backpropagation)
@@ -48,7 +52,7 @@ Syllabus(`check in after verified`)
 
 - [ ] [Chapter 17](./ch17/ch17.md) Multimodal (VQVAE, diffusion transformer)
 
-Appendix
+### Appendix
 
 Further topics to work into the progression above:
 
