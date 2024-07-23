@@ -18,7 +18,7 @@ Syllabus
 
 - [x] Chapter 01 [Bigram Language Model (language modeling)](https://github.com/iskyo0ps/llm101n-gpt-generated/blob/main/ch01/ch01%20Bigram%20Language%20Model.md)
 
-- [ ] Chapter 02 Micrograd (machine learning, backpropagation)
+- [ ] Chapter 02 [Micrograd (machine learning, backpropagation)](https://github.com/iskyo0ps/llm101n-gpt-generated/blob/main/ch02/ch02.md) 
 
 - [ ] Chapter 03 N-gram model (multi-layer perceptron, matmul, gelu)
 
