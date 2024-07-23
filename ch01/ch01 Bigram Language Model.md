@@ -1,3 +1,5 @@
+# Bigram Language Model
+
 A Bigram Language Model is a type of statistical language model used in natural language processing to predict the probability of a word given the previous word in a sequence. Here's a breakdown of its key components and how it works:
 
 ### Basics of Bigram Models
