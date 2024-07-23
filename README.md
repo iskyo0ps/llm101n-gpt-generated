@@ -1,4 +1,4 @@
-# llm101n-gpt-gennerated
+# llm101n-gpt-generated
 
 chatgpt-generated context for studying Large language model.
 
