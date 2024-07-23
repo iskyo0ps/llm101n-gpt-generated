@@ -6,15 +6,19 @@ A Bigram Language Model is a type of statistical language model used in natural 
    - A bigram is a pair of consecutive words in a sequence. For example, in the sentence "I love natural language processing," the bigrams are: "I love," "love natural," "natural language," and "language processing."
 
 2. **Probability Calculation**:
-   - The model estimates the probability of a word given the previous word. Formally, the probability of a word \( w_i \) given the previous word \( w_{i-1} \) is represented as \( P(w_i | w_{i-1}) \).
-   - Using the chain rule of probability, the probability of a sequence of words \( w_1, w_2, \ldots, w_n \) can be approximated as:
-     \[P(w_1, w_2, \ldots, w_n) \approx P(w_1) \cdot P(w_2 | w_1) \cdot P(w_3 | w_2) \cdot \ldots \cdot P(w_n | w_{n-1})\]
+   - The model estimates the probability of a word given the previous word. Formally, the probability of a word $ w_i $ given the previous word $ w_{i-1} $ is represented as $ P(w_i | w_{i-1}) $.
+   - Using the chain rule of probability, the probability of a sequence of words $ w_1, w_2, \ldots, w_n $ can be approximated as:
+     $$
+     P(w_1, w_2, \ldots, w_n) \approx P(w_1) \cdot P(w_2 | w_1) \cdot P(w_3 | w_2) \cdot \ldots \cdot P(w_n | w_{n-1})
+     $$
 
 3. **Training the Model**:
    - To train a bigram model, you need a large corpus of text. The model learns the probabilities from this corpus by counting the occurrences of each bigram.
-   - The probability of a word \( w_i \) given \( w_{i-1} \) is calculated as:
-     \[P(w_i | w_{i-1}) = \frac{C(w_{i-1}, w_i)}{C(w_{i-1})}\]
-     where \( C(w_{i-1}, w_i) \) is the count of the bigram \( (w_{i-1}, w_i) \) and \( C(w_{i-1}) \) is the count of the word \( w_{i-1} \).
+   - The probability of a word $ w_i $ given $ w_{i-1} $ is calculated as:
+     $$
+     P(w_i | w_{i-1}) = \frac{C(w_{i-1}, w_i)}{C(w_{i-1})}
+     $$
+     where $ C(w_{i-1}, w_i) $ is the count of the bigram $ (w_{i-1}, w_i) $ and $ C(w_{i-1}) $ is the count of the word $ w_{i-1} $.
 
 4. **Smoothing**:
    - In practice, many bigrams may not appear in the training corpus, leading to zero probabilities. Smoothing techniques such as Laplace smoothing (adding a small constant to all counts) are used to handle this issue.
