@@ -20,9 +20,9 @@ Syllabus
 
 - [x] [Chapter 03](./ch03/ch03.md) N-gram model (multi-layer perceptron, matmul, gelu)
 
-- [ ] Chapter 04 Attention (attention, softmax, positional encoder)
+- [ ] [Chapter 04](./ch04/ch04.md) Attention (attention, softmax, positional encoder)
 
-- [ ] Chapter 05 Transformer (transformer, residual, layernorm, GPT-2)
+- [ ] [Chapter 05](./ch05/ch05.md) Transformer (transformer, residual, layernorm, GPT-2)
 
 - [ ] Chapter 06 Tokenization (minBPE, byte pair encoding)
 
