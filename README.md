@@ -12,7 +12,7 @@ refer to the copied the directory context from https://github.com/karpathy/LLM10
 
 In this course we will build a Storyteller AI Large Language Model (LLM). Hand in hand, you'll be able create, refine and illustrate [little stories](https://huggingface.co/datasets/roneneldan/TinyStories) with the AI. We are going to build everything end-to-end from basics to a functioning web app similar to ChatGPT, from scratch in Python, C and CUDA, and with minimal computer science prerequisits. By the end you should have a relatively deep understanding of AI, LLMs, and deep learning more generally.
 
-Syllabus
+Syllabus(`check in after verified`)
 
 - [x] [Chapter 01](./ch01/ch01%20Bigram%20Language%20Model.md) Bigram Language Model (language modeling)
 
@@ -24,29 +24,29 @@ Syllabus
 
 - [ ] [Chapter 05](./ch05/ch05.md) Transformer (transformer, residual, layernorm, GPT-2)
 
-- [ ] Chapter 06 Tokenization (minBPE, byte pair encoding)
+- [ ] [Chapter 06](./ch06/ch06.md) Tokenization (minBPE, byte pair encoding)
 
-- [ ] Chapter 07 Optimization (initialization, optimization, AdamW)
+- [ ] [Chapter 07](./ch07/ch07.md)  Optimization (initialization, optimization, AdamW)
 
-- [ ] Chapter 08 Need for Speed I: Device (device, CPU, GPU, ...)
+- [ ] [Chapter 08](./ch08/ch08.md)  Need for Speed I: Device (device, CPU, GPU, ...)
 
-- [ ] Chapter 09 Need for Speed II: Precision (mixed precision training, fp16, bf16, fp8, ...)
+- [ ] [Chapter 09](./ch09/ch09.md)  Need for Speed II: Precision (mixed precision training, fp16, bf16, fp8, ...)
 
-- [ ] Chapter 10 Need for Speed III: Distributed (distributed optimization, DDP, ZeRO)
+- [ ] [Chapter 10](./ch10/ch10.md)  Need for Speed III: Distributed (distributed optimization, DDP, ZeRO)
 
-- [ ] Chapter 11 Datasets (datasets, data loading, synthetic data generation)
+- [ ] [Chapter 11](./ch11/ch11.md) Datasets (datasets, data loading, synthetic data generation)
 
-- [ ] Chapter 12 Inference I: kv-cache (kv-cache)
+- [ ] [Chapter 12](./ch12/ch12.md) Inference I: kv-cache (kv-cache)
 
-- [ ] Chapter 13 Inference II: Quantization (quantization)
+- [ ] [Chapter 13](./ch13/ch13.md) Inference II: Quantization (quantization)
 
-- [ ] Chapter 14 Finetuning I: SFT (supervised finetuning SFT, PEFT, LoRA, chat)
+- [ ] [Chapter 14](./ch14/ch14.md) Finetuning I: SFT (supervised finetuning SFT, PEFT, LoRA, chat)
 
-- [ ] Chapter 15 Finetuning II: RL (reinforcement learning, RLHF, PPO, DPO)
+- [ ] [Chapter 15](./ch15/ch15.md) Finetuning II: RL (reinforcement learning, RLHF, PPO, DPO)
 
-- [ ] Chapter 16 Deployment (API, web app)
+- [ ] [Chapter 16](./ch16/ch16.md) Deployment (API, web app)
 
-- [ ] Chapter 17 Multimodal (VQVAE, diffusion transformer)
+- [ ][ Chapter 17](./ch17/ch17.md) Multimodal (VQVAE, diffusion transformer)
 
 Appendix
 
