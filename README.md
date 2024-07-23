@@ -18,7 +18,7 @@ Syllabus
 
 - [x] [Chapter 02](./ch02/ch02.md) Micrograd (machine learning, backpropagation)
 
-- [ ] Chapter 03 N-gram model (multi-layer perceptron, matmul, gelu)
+- [x] [Chapter 03](./ch03/ch03.md) N-gram model (multi-layer perceptron, matmul, gelu)
 
 - [ ] Chapter 04 Attention (attention, softmax, positional encoder)
 
